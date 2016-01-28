@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/> <!-- the head is for meta data -->
-
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 		<!-- IE rendering mode -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,19 +44,31 @@
 				<div class="col-md-12"
 		<h1>Hello world djvnsdjfnosgnfosngovaeognvoanevjbasdjvnaso'ngv<h1>
 				</div>
+			</div>
+
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-6".col-md-6>
 				<p> yep dtff agpasgvpasg </p>
-						<div class="col-md-6">
+					</div>
+					<div class="col-md-6".col-md-6>
 						<p> ajsngsgkangoangoneg</p>
-						</div>
 					</div>
 				</div>
 				<div class="row">
+					<div class
 
+
+
+
+
+
+				</div>
+				<div class="row">
+					<div class="col-md-12".col-md-12></div>
 				<footer> bottom stuff</footer>
 				</div>
 			</div>
+
 	</body
 
 </html>
