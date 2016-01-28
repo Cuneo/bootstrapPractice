@@ -23,22 +23,25 @@
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-
 		<title> My web page </title>
 	</head>
-	<body>
+	<body class="sfooter">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-			<header> Free stuff</header>
+			<header> header </header>
+					<form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search">
+						</div>
+						<button type="submit" class="btn btn-default">Submit</button>
+					</form>
 				</div>
 			<div class="row">
 				<div class="col-md-12"
@@ -66,11 +69,6 @@
 						<p>heloooooo</p>
 					</div>
 					</div>
-
-
-
-
-
 				<div class="row">
 					<div class="col-md-12".col-md-12>
 				<footer> bottom stuff</footer>
