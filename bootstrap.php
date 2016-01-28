@@ -45,30 +45,34 @@
 		<h1>Hello world djvnsdjfnosgnfosngovaeognvoanevjbasdjvnaso'ngv<h1>
 				</div>
 			</div>
+			</div>
 
 				<div class="row">
 					<div class="col-md-6".col-md-6>
-				<p> yep dtff agpasgvpasg </p>
+				<p> md -6 </p>
 					</div>
 					<div class="col-md-6".col-md-6>
-						<p> ajsngsgkangoangoneg</p>
+						<p> md-6</p>
 					</div>
 				</div>
 				<div class="row">
-					<div class
+					<div class="col-md-4".col-md-4>
+					<p>heloooooo</p>
+					</div>
+					<div class="col-md-4".col-md-4>
+						<p>funnnstuff</p>
+		</div>
 
 
 
 
 
-
-				</div>
 				<div class="row">
-					<div class="col-md-12".col-md-12></div>
+					<div class="col-md-12".col-md-12>
 				<footer> bottom stuff</footer>
 				</div>
 			</div>
-
+		</div>
 	</body
 
 </html>
