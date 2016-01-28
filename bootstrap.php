@@ -38,8 +38,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-			<header> Free stuff
-			</header>
+			<header> Free stuff</header>
 				</div>
 			<div class="row">
 				<div class="col-md-12"
