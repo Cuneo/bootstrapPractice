@@ -61,7 +61,11 @@
 					</div>
 					<div class="col-md-4".col-md-4>
 						<p>funnnstuff</p>
-		</div>
+					</div>
+					<div class="col-md-4".col-md-4>
+						<p>heloooooo</p>
+					</div>
+					</div>
 
 
 
